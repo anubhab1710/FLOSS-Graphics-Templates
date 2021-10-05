@@ -17,4 +17,5 @@ Contributions are what make the open source community such an amazing place to l
 9. Open a Pull Request
 
 
- ### <p align = "center">All contributions are welcome! Let us uphold the spirit of Open-Source and make our ideas stand-out! </p>
+ ### <div align = "center">All contributions are welcome!</div>
+ ### <div align = "center">❤ Let us uphold the spirit of Open-Source and make our ideas stand-out! ❤</div>
